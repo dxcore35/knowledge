@@ -1,7 +1,3 @@
----
-description: Effective & extremely versatile device for self-massage
----
-
 # Lacrosse ball
 
 Lacrosse ball massage is a form of self-myofascial release. Fascia, the thin sheath of connective tissue that covers all the muscles and organs of the body, is responsible for connecting muscle groups. When disrupted, it can cause pain and poor movement patterns. Tight fascia can pull the body out of alignment and increase pressure on muscles and joints, causing pain. 

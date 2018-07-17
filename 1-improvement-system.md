@@ -1,7 +1,3 @@
----
-description: 'Clever, simple and "invisible" system how to be become master in whatever.'
----
-
 # 1% improvement system
 
 In the beginning, there is basically no difference between making a choice that is 1% better or 1% worse. But as time goes on, these small improvements or declines compound and you suddenly find a very big gap between people who make slightly better decisions on a daily basis and those who don’t. 

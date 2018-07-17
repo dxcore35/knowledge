@@ -1,7 +1,3 @@
----
-description: Inexpensive & mobile exercise tool which replace your gym
----
-
 # Resistance bands
 
 A resistance band is a versatile workout tool. It can be used to perform all types of exercises \(upper and lower body\), it’s perfect for strength training and for doing cardio workouts. Bands come in a vast array of sizes and few different types. The materials could differ and so will the resistance that these deliver. 
