@@ -8,4 +8,5 @@
 * [Heart Rate Variability](heart-rate-variability.md)
 * [Resistance bands](resistance-bands.md)
 * [Lacrosse ball](lacrosse-ball.md)
+* [Tai Chi](tai-chi.md)
 
