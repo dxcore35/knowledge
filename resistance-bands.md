@@ -36,7 +36,7 @@ Different color represent different resistance of the band. Since there is no un
 ## SOURCES
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5140827](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5140827/)  
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3588619/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3588619/)  
 [https://www.hometraininghero.com/what-is-resistance-band-training-the-science/](https://www.hometraininghero.com/what-is-resistance-band-training-the-science/)  
-  
 
 
