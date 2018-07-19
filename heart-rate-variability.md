@@ -13,5 +13,7 @@ Heart rate variability \(HRV\) is the physiological phenomenon of variation in t
 
 ## SOURCES
 
-* [https://en.wikipedia.org/wiki/Heart\_rate\_variability](https://en.wikipedia.org/wiki/Heart_rate_variability)
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5882295](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5882295/)  
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5649208](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5649208/)  
+
 

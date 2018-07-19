@@ -28,6 +28,7 @@ Lacrosse ball massage is a form of self-myofascial release. Fascia, the thin she
 
 ## SOURCES
 
-[https://en.wikipedia.org/wiki/Myofascial\_release](https://en.wikipedia.org/wiki/Myofascial_release)  
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4508225](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4508225/)  
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4637917](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4637917/)  
 [http://www.ptonthenet.com/articles/the-science-of-self-myofascial-release-4036](http://www.ptonthenet.com/articles/the-science-of-self-myofascial-release-4036)
 
