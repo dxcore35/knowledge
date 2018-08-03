@@ -9,4 +9,7 @@
 * [Resistance bands](resistance-bands.md)
 * [Lacrosse ball](lacrosse-ball.md)
 * [Tai Chi](tai-chi.md)
+* [Ananda mandala](ananda-mandala.md)
+* [9-bottled wind breathing practice](9-bottled-wind-breathing-practice.md)
+* [Anki app](ankii-app.md)
 

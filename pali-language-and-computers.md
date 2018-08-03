@@ -34,7 +34,7 @@ Y R L V S
 H Ḷ
 
 | manner of articulation | guttural | palatal | cerebral | dental | labial |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | voiceless unaspirated | k | c | ṭ | t | p |
 | voiceless aspirated | kh | ch | ṭh | th | ph |
 | voiced unaspirated | g | j | ḍ | d | b |
@@ -64,7 +64,7 @@ nouns and pronouns have 3 cases
 ### 8 cases in Pali
 
 |  Pali case | English case |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | nominative | subject |
 | acusative | direct object |
 | instrumental | object of a prep. |
@@ -89,7 +89,7 @@ nouns and pronouns have 3 cases
 ### Characteristics of conjugated verbal forms
 
 | term | translation | Commments |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | dhātu | root | can denote an activity or a condition |
 | paccaya | ending | used to refer to both verbal and nominal endings |
 | vikaraṇa | suffix, infix | can be placed after or in the root before an ending |

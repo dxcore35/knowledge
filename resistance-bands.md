@@ -5,7 +5,7 @@ A resistance band is a versatile workout tool. It can be used to perform all typ
 ![](.gitbook/assets/img_4050.JPG)
 
 | _Number on picture_ | _Type_ | _Description_ |
-| --- | --- | --- | --- | --- |
+| :--- | :--- | :--- |
 | 1 | Resistance tube | rubber tube with fixed handles on each side |
 | 2 | Flat band | super flat rubber in rectangle shape |
 | 3 | Loop band small | rubber - latex closed loop \(small version\) |

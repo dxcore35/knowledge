@@ -16,22 +16,31 @@ During the mediation session avoid to be disturbed \(find correct time, turn of 
 
 1. Sit down in comfortable posture with back straight
 2. Set and countdown of desired time \(start with 10 minutes and each week add 1% more time\), for details see the this page:
+
+   {% page-ref page="1-improvement-system.md" %}
+
 3. Start the timer and close your eyes
 4. Relax your body and face area
 5. Tell yourself that now you are going to watch your breath, any other activities are now not important
 6. Watch the area directly below the nostrils and upper lip
 
-![Process of how to &quot;observe&quot; the breath.](https://dxcore_35.gitbooks.io/knowledge/assets/anapana3.jpg)
+![Process of how to &quot;observe&quot; the breath.](.gitbook/assets/anapana_graph_cycle.png)
 
 {% hint style="warning" %}
 Do not follow the breath going inside or outside. Just watch the breath in limited area - around the nostrils and upper lip.
 {% endhint %}
 
-![Process explaining how to handle disturbance during the session](https://dxcore_35.gitbooks.io/knowledge/assets/anapana2%20copy.jpg)
+![Process explaining how to handle disturbance during the session](.gitbook/assets/anapana_graph_attention.png)
 
+## SOURCES
 
+[www.nspb.net/index.php/nspb/article/viewFile/260/155](www.nspb.net/index.php/nspb/article/viewFile/260/155)  
+[https://www.ncbi.nlm.nih.gov/pubmed/22685240](https://www.ncbi.nlm.nih.gov/pubmed/22685240)  
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3250176/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3250176/)  
+[https://www.ncbi.nlm.nih.gov/pubmed/24033306](https://www.ncbi.nlm.nih.gov/pubmed/24033306)  
+[https://www.ncbi.nlm.nih.gov/pubmed/23643368](https://www.ncbi.nlm.nih.gov/pubmed/23643368)  
+[https://www.ncbi.nlm.nih.gov/pubmed/25938614](https://www.ncbi.nlm.nih.gov/pubmed/25938614)  
+[https://www.ncbi.nlm.nih.gov/pubmed/26146629](https://www.ncbi.nlm.nih.gov/pubmed/26146629)  
+[https://www.ncbi.nlm.nih.gov/pubmed/21035949](https://www.ncbi.nlm.nih.gov/pubmed/21035949)  
 
-
-
-{% page-ref page="1-improvement-system.md" %}
 
