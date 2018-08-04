@@ -11,7 +11,7 @@ In the beginning, there is basically no difference between making a choice that 
 * The goals are more achievable because tiny actions have less resistance.
 * This is why the system is greater than the goals
 
-![By improving 1% every day, you&#x2019;re getting 38 times better after a year.](https://dxcore_35.gitbooks.io/knowledge/assets/gains.png)
+![By improving 1% every day, you&#x2019;re getting 38 times better after a year](.gitbook/assets/1-improvement_system_gains.png)
 
 ## **TUTORIAL**
 
@@ -25,6 +25,4 @@ The pattern works in reverse: many small choices — a 1% decline here and there
 ## RESOURCES
 
 [www.amazon.com/1-Rule-Process-Achieve-Wildest-ebook/dp/B079Y68D9X](www.amazon.com/1-Rule-Process-Achieve-Wildest-ebook/dp/B079Y68D9X)[www.youtube.com/watch?v=iSIjOn3dGoc](https://www.youtube.com/watch?v=iSIjOn3dGoc)
-
-
 

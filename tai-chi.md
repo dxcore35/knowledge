@@ -2,13 +2,13 @@
 
 Tai Chi Chuan is a Chinese martial art that combines movements for relaxation, health, and self-defense. It is known for slow-moving system of functional training movements, which eventually developed into sets of family forms that were vigorously practiced and passed down through the generations. Today it is mostly recognized for its graceful motion, healthful benefits, and meditative mind quality. An ideal exercise helpful for all ages, it promotes proper alignment, balance, mental focus, agility, coordination, and stamina.
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/taichi_cover.png)
 
 ## List of 24 postures \(Yang Style\)
 
-![FORM 1: Commencing form](.gitbook/assets/image%20%2816%29.png)
+![FORM 1: Opening form](.gitbook/assets/taiqi_form1.png)
 
-![FORM 2: Part the wild horse&apos;s mane](.gitbook/assets/image%20%286%29.png)
+![](.gitbook/assets/taiqi_form2.png)
 
 ![FORM 3: The white crane spreads its wings](.gitbook/assets/image%20%2812%29.png)
 
@@ -39,6 +39,8 @@ Tai Chi Chuan is a Chinese martial art that combines movements for relaxation, h
 15. Apparent close up
 16. Cross hands
 17. Closing form
+
+
 
 ## RESOURCES
 

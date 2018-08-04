@@ -2,7 +2,7 @@
 
 Hidden in the high Himalayas 2,500 years ago, Tibetan Lamas developed five simple range of motion exercises they called "Rites." These Rites have remarkable powers of rejuvenation; indeed, they have rightfully been called a "Fountain of Youth." The original texts say they speed up energy vortexes.Those from a yoga background say the Rites strengthen the chakras. Others say they are just good range of motion exercises. Other say that it activate the body's nervous system and stimulate the glands of the body.
 
-![](.gitbook/assets/img_4003%20%282%29.JPG)
+![](.gitbook/assets/5tibetian_rites_cover.JPG)
 
 ## **BENEFITS**
 
@@ -22,7 +22,9 @@ The magic is in hidden in long term repetition for few months
 
 ## **TUTORIAL**
 
-![](.gitbook/assets/rites%20%282%29.png)
+\*\*\*\*
+
+![](.gitbook/assets/5tibetian_rites_rites.png)
 
 1. One time per day find 10-15 minutes 
 2. Start with rite 1 and repeat it 21 times
