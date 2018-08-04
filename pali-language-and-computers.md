@@ -116,3 +116,7 @@ nouns and pronouns have 3 cases
   2. Plural
 * None of the 3 genders \(participles do have gender, because they have, and decline, as adjectives\)
 
+## RESOURCES
+
+
+

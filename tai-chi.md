@@ -40,5 +40,15 @@ Tai Chi Chuan is a Chinese martial art that combines movements for relaxation, h
 16. Cross hands
 17. Closing form
 
+## RESOURCES
+
+[https://www.ncbi.nlm.nih.gov/pubmed/25047456](https://www.ncbi.nlm.nih.gov/pubmed/25047456)  
+[https://www.ncbi.nlm.nih.gov/pubmed/24078491](https://www.ncbi.nlm.nih.gov/pubmed/24078491)  
+[https://www.ncbi.nlm.nih.gov/pubmed/24406709](https://www.ncbi.nlm.nih.gov/pubmed/24406709)  
+[https://www.ncbi.nlm.nih.gov/pubmed/24078491](https://www.ncbi.nlm.nih.gov/pubmed/24078491)  
+[https://www.ncbi.nlm.nih.gov/pubmed/25680184](https://www.ncbi.nlm.nih.gov/pubmed/25680184)  
+[https://www.ncbi.nlm.nih.gov/pubmed/27460789](https://www.ncbi.nlm.nih.gov/pubmed/27460789)  
+[https://www.ncbi.nlm.nih.gov/pubmed/28661865](https://www.ncbi.nlm.nih.gov/pubmed/28661865)  
+[https://www.ncbi.nlm.nih.gov/pubmed/23538081](https://www.ncbi.nlm.nih.gov/pubmed/23538081)  
 
 

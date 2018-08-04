@@ -32,9 +32,9 @@ Do not follow the breath going inside or outside. Just watch the breath in limit
 
 ![Process explaining how to handle disturbance during the session](.gitbook/assets/anapana_graph_attention.png)
 
-## SOURCES
+## RESOURCES
 
-[www.nspb.net/index.php/nspb/article/viewFile/260/155](www.nspb.net/index.php/nspb/article/viewFile/260/155)  
+[http://www.nspb.net/index.php/nspb/article/viewFile/260/155](http://www.nspb.net/index.php/nspb/article/view/260/155)  
 [https://www.ncbi.nlm.nih.gov/pubmed/22685240](https://www.ncbi.nlm.nih.gov/pubmed/22685240)  
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3250176/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3250176/)  
 [https://www.ncbi.nlm.nih.gov/pubmed/24033306](https://www.ncbi.nlm.nih.gov/pubmed/24033306)  

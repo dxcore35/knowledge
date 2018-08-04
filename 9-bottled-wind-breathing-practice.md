@@ -43,7 +43,7 @@ Please use it in the beginning of a meditation session to calm and clear the min
 When you're upset, you breathe rapidly, shallowly and irregularly, but you can't be upset if your breathing is slow, deep, quiet and regular.
 {% endhint %}
 
-## SOURCE
+## RESOURCES
 
 [https://www.ncbi.nlm.nih.gov/pubmed/29755217](https://www.ncbi.nlm.nih.gov/pubmed/29755217)  
 [https://www.ncbi.nlm.nih.gov/pubmed/29321984](https://www.ncbi.nlm.nih.gov/pubmed/29321984)  

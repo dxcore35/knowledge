@@ -11,7 +11,7 @@ Heart rate variability \(HRV\) is the physiological phenomenon of variation in t
 * Measure 5+ days per week.
 * Measure in the same position at the same time of day \(or understand the effects of these differences\).
 
-## SOURCES
+## RESOURCES
 
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5882295](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5882295/)  
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5649208](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5649208/)  
