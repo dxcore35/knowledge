@@ -2,7 +2,7 @@
 
 Ānāpānasati \(in Pali language\), meaning "mindfulness of breathing is a form of Buddhist meditation originally taught by Gautama Buddha. Now it is common meditation method in Theravada Buddhism, Tibetan, Zen, Tiantai and as well as Western-based mindfulness programs.
 
-![](.gitbook/assets/65288a889d5d32265c53be5ed6268e2c.jpg)
+![](.gitbook/assets/anapana_cover.jpg)
 
 ## BENEFITS
 
@@ -23,6 +23,8 @@ During the mediation session avoid to be disturbed \(find correct time, turn of 
 4. Relax your body and face area
 5. Tell yourself that now you are going to watch your breath, any other activities are now not important
 6. Watch the area directly below the nostrils and upper lip
+
+
 
 ![Process of how to &quot;observe&quot; the breath.](.gitbook/assets/anapana_graph_cycle.png)
 

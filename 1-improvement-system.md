@@ -2,7 +2,7 @@
 
 In the beginning, there is basically no difference between making a choice that is 1% better or 1% worse. But as time goes on, these small improvements or declines compound and you suddenly find a very big gap between people who make slightly better decisions on a daily basis and those who don’t. 
 
-![Small choices don&#x2019;t make much of a difference at the time, but add up over the long-term.](.gitbook/assets/img_4010.jpg)
+![Small choices don&#x2019;t make much of a difference at the time, but add up over the long-term.](.gitbook/assets/1-improvement_system_cover.jpg)
 
 ## **BENEFITS**
 
