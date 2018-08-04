@@ -22,7 +22,7 @@ In the beginning, there is basically no difference between making a choice that 
 The pattern works in reverse: many small choices — a 1% decline here and there — leads to a problem.
 {% endhint %}
 
-## SOURCE
+## RESOURCES
 
 [www.amazon.com/1-Rule-Process-Achieve-Wildest-ebook/dp/B079Y68D9X](www.amazon.com/1-Rule-Process-Achieve-Wildest-ebook/dp/B079Y68D9X)[www.youtube.com/watch?v=iSIjOn3dGoc](https://www.youtube.com/watch?v=iSIjOn3dGoc)
 
