@@ -8,17 +8,17 @@ Tai Chi Chuan is a Chinese martial art that combines movements for relaxation, h
 
 ![FORM 1: Opening form](.gitbook/assets/taiqi_form1.png)
 
-![](.gitbook/assets/taiqi_form2.png)
+![FORM 2: Part the Wild Horse&apos;s Mane ](.gitbook/assets/taiqi_form2.png)
 
-![FORM 3: The white crane spreads its wings](.gitbook/assets/image%20%2812%29.png)
+![FORM 3: The white crane spreads its wings](.gitbook/assets/taiqi_form3.png)
 
-![FORM 4: Brush knee and twist step on both sides \(with variations\)](.gitbook/assets/image%20%288%29.png)
+![FORM 4: Brush knee and twist step on both sides \(with variations\)](.gitbook/assets/taiqi_form4.png)
 
-![FORM 5: Hand strums the lute](.gitbook/assets/image%20%2814%29.png)
+![FORM 5: Hand strums the lute](.gitbook/assets/taiqi_form5.png)
 
-![FORM 6: Step back and whirl arms on both sides \(with variations\)](.gitbook/assets/image%20%284%29.png)
+![FORM 6: Step back and whirl arms on both sides \(with variations\)](.gitbook/assets/taiqi_form6.png)
 
-![ FORM 7: Grasp the bird&apos;s tail-left style](.gitbook/assets/image.png)
+![ FORM 7: Grasp the bird&apos;s tail-left style](.gitbook/assets/taiqi_form7.png)
 
 
 

@@ -1,7 +1,3 @@
----
-description: Powerful energy generation & cleaning breathing technique
----
-
 # Ananda mandala
 
 It is a very powerful cleansing meditation used by yogis in India to wash out hidden emotions stuck in the body and open to higher states of consciousness. A guided rhythmic breathing pattern, followed by a concentrated and focused meditation on each chakra \(energy center\), invites deep energetic releases from the body & pathways and it generate a blissful states of mind.
@@ -10,7 +6,8 @@ It is a very powerful cleansing meditation used by yogis in India to wash out hi
 
 ## TUTORIAL
 
-    0. Follow this tutorial or just play track below and follow instruction in audio
+    0. Follow this tutorial bellow or just play track in the end of the page and follow instruction     
+        comfortably as audio
 
 1. Sit down in meditation posture
 2. Put attention into place \(1\) and breath in

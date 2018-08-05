@@ -1,7 +1,3 @@
----
-description: Effective & scientific to memoize and learn everything
----
-
 # Anki app
 
 Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn. Anyone who needs to remember things in their daily life can benefit from Anki. Since it is content-agnostic and supports images, audio, videos and scientific markup, the possibilities are endless. The core of the software is the spaced repetition algorithm which ensure extremely efficient learning.

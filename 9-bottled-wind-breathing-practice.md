@@ -1,9 +1,3 @@
----
-description: >-
-  Powerful technique to help calm the mind, open energy path and expand the
-  lungs volume
----
-
 # 9-bottled wind breathing practice
 
 It is a pranayama practice from the Tibetan Bon Buddhist tradition. Breathing exercise cleanses the three main energy pathways in the body. 

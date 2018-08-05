@@ -1,10 +1,10 @@
 # Introduction
 
-![](.gitbook/assets/bf94533c-b731-495b-8c8d-4b15431c7e8f.jpg)
+![](.gitbook/assets/blog_cover.jpg)
 
 
 
 
 
-![](.gitbook/assets/qr2.jpg)
+![](.gitbook/assets/blog_qr_small.jpg)
 
