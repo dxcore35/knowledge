@@ -4,7 +4,7 @@ A resistance band is a versatile workout tool. It can be used to perform all typ
 
 ![](.gitbook/assets/resistancebands_cover.JPG)
 
-![](.gitbook/assets/img_4050.JPG)
+
 
 | _Number on picture_ | _Type_ | _Description_ |
 | :--- | :--- | :--- |
