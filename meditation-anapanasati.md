@@ -2,7 +2,7 @@
 
 Ānāpānasati \(in Pali language\), meaning "mindfulness of breathing is a form of Buddhist meditation originally taught by Gautama Buddha. Now it is common meditation method in Theravada Buddhism, Tibetan, Zen, Tiantai and as well as Western-based mindfulness programs.
 
-![](.gitbook/assets/art_ja_meditacia.jpg)
+![](.gitbook/assets/anapana_cover.jpg)
 
 ## BENEFITS
 
