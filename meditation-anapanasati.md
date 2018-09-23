@@ -34,7 +34,7 @@ Do not follow the breath going inside or outside. Just be aware of the breath in
 
 7. Count the number on out breath based on this diagram:
 
-![](.gitbook/assets/anapana_level1.png)
+![](.gitbook/assets/anapana_level1%20%281%29.png)
 
 8. If you wander off or forget to count or breath follow this diagram:
 
