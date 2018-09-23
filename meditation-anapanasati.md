@@ -10,7 +10,7 @@
 
 ## OVERVIEW OF PROCESS
 
-![](.gitbook/assets/meditation-process.png)
+![](.gitbook/assets/meditation-process%20%281%29.png)
 
 ## TUTORIAL
 
