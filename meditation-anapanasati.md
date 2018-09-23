@@ -2,7 +2,7 @@
 
 Ānāpānasati \(in Pali language\), meaning "mindfulness of breathing is a form of Buddhist meditation originally taught by Gautama Buddha. Now it is common meditation method in Theravada Buddhism, Tibetan, Zen, Tiantai and as well as Western-based mindfulness programs.
 
-![](.gitbook/assets/anapana_cover.jpg)
+![](.gitbook/assets/art_ja_meditacia.jpg)
 
 ## BENEFITS
 
@@ -48,11 +48,11 @@ Do not follow the breath going inside or outside. Just be aware of the breath in
 11.  If you can keep 30 minutes of uninterrupted attention you have master the LEVEL 2 ✓  
 12. From here you __need to observe more subtle characteristic of the breath as the duration of the breaths:
 
-![LEVEL3: Long / short breath: to keep your interested &amp; avoid boredom and sharpen your concentration.](.gitbook/assets/anapana_level3.png)
+![LEVEL3: Long / short breath: to keep your interested &amp; avoid boredom and sharpen your concentration](.gitbook/assets/anapana_level3%20%281%29.png)
 
 13. After you will find it easy, observe even more details of the breath by this diagram:
 
-![LEVEL 4: Process of how to details of how to be aware of different aspects of the breath](.gitbook/assets/anapana_level4.png)
+![LEVEL 4: Detail observation of different  parts / aspects of the breath](.gitbook/assets/anapana_level4.png)
 
 14. Increase the time of your sitting up to 3 hours.   
 15. Congratulations! Now try to find mediation teacher!
