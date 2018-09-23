@@ -19,7 +19,7 @@ During the mediation session avoid to be disturbed \(find correct time, turn of 
 {% endhint %}
 
 1. Sit down in comfortable posture with back straight
-2. Set and countdown of desired time \(start with 10 minutes and each week add 1% more time\), for details see the this page:
+2. Set and countdown of desired time \(you can start with 10 minutes and each week add 1% more time\), for details see the this page:
 
    {% page-ref page="1-improvement-system.md" %}
 
