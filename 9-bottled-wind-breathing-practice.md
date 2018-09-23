@@ -2,7 +2,7 @@
 
 It is a pranayama practice from the Tibetan Bon Buddhist tradition. Breathing exercise cleanses the three main energy pathways in the body. 
 
-![](.gitbook/assets/9bottledwind_cover.jpg)
+![](.gitbook/assets/9-bottled-wind_cover.jpg)
 
 {% hint style="warning" %}
 Please use it in the beginning of a meditation session to calm and clear the mind.
