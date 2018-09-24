@@ -2,7 +2,7 @@
 
 Lacrosse ball massage is a form of self-myofascial release. Fascia, the thin sheath of connective tissue that covers all the muscles and organs of the body, is responsible for connecting muscle groups. When disrupted, it can cause pain and poor movement patterns. Tight fascia can pull the body out of alignment and increase pressure on muscles and joints, causing pain. 
 
-![](.gitbook/assets/lacrose_ball_cover.JPG)
+![](../.gitbook/assets/lacrose_ball_cover.JPG)
 
 ## BENEFITS
 
@@ -20,7 +20,7 @@ Lacrosse ball massage is a form of self-myofascial release. Fascia, the thin she
 3. Put a ball on area and apply constant pressure and roll slowly around the area
 4. You should feel pain, but after release you should feel significant relief
 
-![](.gitbook/assets/lacrose_ball_pointsmap.jpg)
+![](../.gitbook/assets/lacrose_ball_pointsmap.jpg)
 
 ## EXAMPLE
 

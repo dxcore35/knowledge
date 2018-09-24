@@ -2,7 +2,7 @@
 
 Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods, you can either greatly decrease your time spent studying, or greatly increase the amount you learn. Anyone who needs to remember things in their daily life can benefit from Anki. Since it is content-agnostic and supports images, audio, videos and scientific markup, the possibilities are endless. The core of the software is the spaced repetition algorithm which ensure extremely efficient learning.
 
-![](.gitbook/assets/anki_cover.jpg)
+![](../.gitbook/assets/anki_cover.jpg)
 
 ## BENEFITS
 
@@ -20,7 +20,7 @@ Anki is a program which makes remembering things easy. Because it's a lot more e
 Anki will have you review each card at the specific point in the forgetting curve you’re most likely to forget it.
 {% endhint %}
 
-![](.gitbook/assets/anki_graph.jpg)
+![](../.gitbook/assets/anki_graph.jpg)
 
 The graph above shows how your retention of learned material declines over time when you don’t review it again. With additional review in correct time you will extend the period of remembering and slow down the forgetting.  The correct time is chosen by space repetition algorithm directly in Anki with help of effortless information obtain from the user \(rate the difficulty of the flashcard after you review it\). 
 

@@ -2,7 +2,7 @@
 
 It is a very powerful cleansing meditation used by yogis in India to wash out hidden emotions stuck in the body and open to higher states of consciousness. A guided rhythmic breathing pattern, followed by a concentrated and focused meditation on each chakra \(energy center\), invites deep energetic releases from the body & pathways and it generate a blissful states of mind.
 
-![](.gitbook/assets/anandamandala_cover.jpg)
+![](../.gitbook/assets/anandamandala_cover.jpg)
 
 ## TUTORIAL
 
@@ -14,7 +14,7 @@ It is a very powerful cleansing meditation used by yogis in India to wash out hi
 3. Put attention into static place \(7\) and quickly breath out
 4. Repeat whole sequence 10x
 
-![](.gitbook/assets/ananda_mandala_sequence.jpg)
+![](../.gitbook/assets/ananda_mandala_sequence.jpg)
 
    5. After each successful sequence change point of from \(1\) to 2,3,4,5,6 until \(7\)   
    6. After this is finish just relax or mediate for longer time, you will start to feel as never in your life

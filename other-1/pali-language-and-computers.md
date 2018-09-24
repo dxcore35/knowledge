@@ -2,11 +2,11 @@
 
 Pāli is the language of the scriptures of Theravada Buddhism, \(the Pāli Canon or the Tipitaka in Pāli\), which were written in Sri Lanka during the 1st century BC. Pāli has been written in a variety of scripts. In this article I'm focusing only on romanized version of Pāli language.
 
-![](.gitbook/assets/pali_andcomputers_cover.jpg)
+![](../.gitbook/assets/pali_andcomputers_cover.jpg)
 
 ## EXAMPLE
 
-![ There is no P&#x101;li writing. Just different p&#x101;li scripts from different countries.](.gitbook/assets/pali_andcomputers_script.gif)
+![ There is no P&#x101;li writing. Just different p&#x101;li scripts from different countries.](../.gitbook/assets/pali_andcomputers_script.gif)
 
 ## Pāli romanized alphabet: {#pāli-alphabet}
 

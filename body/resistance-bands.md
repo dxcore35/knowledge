@@ -2,7 +2,7 @@
 
 A resistance band is a versatile workout tool. It can be used to perform all types of exercises \(upper and lower body\), it’s perfect for strength training and for doing cardio workouts. Bands come in a vast array of sizes and few different types. The materials could differ and so will the resistance that these deliver. 
 
-![](.gitbook/assets/resistancebands_cover.JPG)
+![](../.gitbook/assets/resistancebands_cover.JPG)
 
 
 
@@ -29,7 +29,7 @@ Different color represent different resistance of the band. Since there is no un
 2. Chose exercise and perform it
 3. Adjust the resistance if needed
 
-![](.gitbook/assets/resistancebands_tutorial.jpg)
+![](../.gitbook/assets/resistancebands_tutorial.jpg)
 
 
 
