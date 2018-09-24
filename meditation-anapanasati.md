@@ -1,3 +1,7 @@
+---
+description: Swiss army knife for all life's problems and a gate to the Truth
+---
+
 # Meditation - Ānāpānasati
 
 Ānāpānasati \(in Pali language\), meaning "mindfulness of breathing is a form of Buddhist meditation originally taught by Gautama Buddha. Now it is common meditation method in Theravada Buddhism, Tibetan, Zen, Tiantai and as well as Western-based mindfulness programs.
