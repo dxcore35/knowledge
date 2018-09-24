@@ -48,7 +48,7 @@ Do not follow the breath going inside or outside. Just be aware of the breath in
 11.  If you can keep 30 minutes of uninterrupted attention you have master the LEVEL 2 ✓  
 12. From here you __need to observe more subtle characteristic of the breath as the duration of the breaths:
 
-![LEVEL3: Long / short breath: to keep your interested &amp; avoid boredom and sharpen your concentration](.gitbook/assets/anapana_level3%20%281%29.png)
+![LEVEL3: Long / short breath: to keep your interested &amp; avoid boredom and sharpen your concentration](.gitbook/assets/anapana_level3.png)
 
 13. After you will find it easy, observe even more details of the breath by this diagram:
 
