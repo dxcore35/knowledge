@@ -52,7 +52,7 @@ Do not follow the breath going inside or outside. Just be aware of the breath in
 
 13. After you will find it easy, observe even more details of the breath by this diagram:
 
-![LEVEL 4: Detail observation of different  parts / aspects of the breath](.gitbook/assets/anapana_level4.png)
+![LEVEL 4: Detail observation of different  parts / aspects of the breath](.gitbook/assets/anapana_level4%20%282%29.png)
 
 14. Increase the time of your sitting up to 3 hours.   
 15. Congratulations! Now try to find mediation teacher!
