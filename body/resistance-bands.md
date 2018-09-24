@@ -4,6 +4,16 @@ A resistance band is a versatile workout tool. It can be used to perform all typ
 
 ![](../.gitbook/assets/resistancebands_cover.JPG)
 
+## BENEFITS
+
+* Simple, effective, affordable
+* Compact and lightweight
+* Multi functional \(replace the gym thus perfect when traveling\)
+
+{% hint style="warning" %}
+Different color represent different resistance of the band. Since there is no unified system, you need to check the resistance brand wise.
+{% endhint %}
+
 
 
 | _Number on picture_ | _Type_ | _Description_ |
@@ -12,16 +22,6 @@ A resistance band is a versatile workout tool. It can be used to perform all typ
 | 2 | Flat band | super flat rubber in rectangle shape |
 | 3 | Loop band small | rubber - latex closed loop \(small version\) |
 | 4 | Loop band big | rubber - latex closed loop \(big version\) |
-
-{% hint style="warning" %}
-Different color represent different resistance of the band. Since there is no unified system, you need to check the resistance brand wise.
-{% endhint %}
-
-## BENEFITS
-
-* Simple, effective, affordable
-* Compact and lightweight
-* Multi functional \(replace the gym thus perfect when traveling\)
 
 ## TUTORIAL
 
