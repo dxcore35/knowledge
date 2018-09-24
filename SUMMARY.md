@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
 * [1% improvement system](1-improvement-system.md)
 * [Meditation - Ānāpānasati](meditation-anapanasati.md)
 * [5 tibetian rites](5-tibetian-rites.md)
