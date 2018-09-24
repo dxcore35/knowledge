@@ -1,5 +1,7 @@
 # Table of contents
 
+* [Introduction](README.md)
+
 ## ------ Life ------
 
 * [1% improvement system](life/1-improvement-system.md)
@@ -28,5 +30,5 @@
 
 ## ------ Other ------
 
-* [Pāli language and computers](other-1/pali-language-and-computers.md)
+* [Pāli language and computers](other/pali-language-and-computers.md)
 
