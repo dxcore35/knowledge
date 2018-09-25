@@ -1,5 +1,7 @@
 # Table of contents
 
+* [Introduction](README.md)
+
 ## ------ Life ------
 
 * [1% improvement system](life/1-improvement-system.md)
