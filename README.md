@@ -1,9 +1,9 @@
 # Introduction
 
-![](.gitbook/assets/blog_cover.jpg)
+![](.gitbook/assets/blog_cover_skillful.jpg)
 
-                                                                            [DOWNLOAD](https://codeload.github.com/dxcore35/knowledge/zip/master)  
-                                                                 whole website as archive
+                                                                                   [DOWNLOAD](https://codeload.github.com/dxcore35/knowledge/zip/master)  
+                                                                         whole website as archive
 
 
 
