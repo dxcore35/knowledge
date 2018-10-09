@@ -38,7 +38,7 @@ Do not follow the breath going inside or outside. Just be aware of the breath in
 
 8. If you wander off or forget to count or breath follow this diagram:
 
-![Meditation process and explenation how to handle disturbance during the session](../.gitbook/assets/anapana_graph_attention%20%281%29.png)
+![Meditation process and explanation how to handle disturbance during the session](../.gitbook/assets/anapana_graph_attention%20%281%29.png)
 
 9. If you can do 4-6 rounds of uninterrupted counting you pass the LEVEL1 ✓  
 10. From here drop the numbers you are telling in your mind and have 30 min. of uninterrupted attention,
