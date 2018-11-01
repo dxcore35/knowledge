@@ -8,7 +8,7 @@ Pāli is the language of the scriptures of Theravada Buddhism, \(the Pāli Canon
 
 ![ There is no P&#x101;li writing. Just different p&#x101;li scripts from different countries.](../.gitbook/assets/pali_andcomputers_script.gif)
 
-## Pāli romanized alphabet: {#pāli-alphabet}
+## Pāli romanized alphabet: <a id="p&#x101;li-alphabet"></a>
 
 a ā i ī u ū e o ṃ k kh g gh ṅ c ch j jh ñ ṭ ṭh ḍ ḍh ṇ t th d dh n p ph b bh m y r l ḷ v s h
 

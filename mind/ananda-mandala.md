@@ -21,7 +21,7 @@ It is a very powerful cleansing meditation used by yogis in India to wash out hi
 
 ##  AUDIO TUTORIAL
 
-{% embed data="{\"url\":\"https://soundcloud.com/dxcore35/sets/ananda-mandala/s-U9UTF\",\"type\":\"video\",\"title\":\"Ananda mandala by dxcore35\",\"description\":\"It is a very powerful cleansing meditation used by yogis in India to wash out hidden emotions stuck in the body and open to higher states of consciousness. A guided rhythmic breathing pattern, followed by a concentrated and focused meditation on each chakra \(energy center\), invites deep energetic releases from the body & pathways and it generate a blissful states of mind.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i1.sndcdn.com/artworks-000382865709-xj1j8v-t500x500.jpg\",\"width\":500,\"height\":500,\"aspectRatio\":1},\"embed\":{\"type\":\"player\",\"url\":\"https://w.soundcloud.com/player/?visual=true&url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F573957573&show\_artwork=true&secret\_token=s-U9UTF\",\"html\":\"<iframe src=\\\"https://w.soundcloud.com/player/?visual=true&amp;url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F573957573&amp;show\_artwork=true&amp;secret\_token=s-U9UTF\\\" style=\\\"border: 0; width: 100%; height: 450px;\\\" allowfullscreen></iframe>\",\"height\":450,\"aspectRatio\":null}}" %}
+{% embed url="https://soundcloud.com/dxcore35/sets/ananda-mandala/s-U9UTF" %}
 
 ## RESOURCES
 
