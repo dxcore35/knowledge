@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Untitled](untitled.md)
+* [Emotions](emotions.md)
 
 ## ------ Life ------
 
@@ -9,6 +10,7 @@
 
 ## ------ Mind ------
 
+* [Brain waves & meditation](mind/brain-waves-and-meditation.md)
 * [Meditation - Ānāpānasati](mind/meditation-anapanasati.md)
 * [9-bottled wind breathing practice](mind/9-bottled-wind-breathing-practice.md)
 * [Ananda mandala](mind/ananda-mandala.md)
