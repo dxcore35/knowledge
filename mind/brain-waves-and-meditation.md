@@ -21,7 +21,7 @@ description: Not so easy like new age websites are presenting
 
 The interesting point is that the traditional EEG frequency bands can be explained by a frequency architecture that is centered around alpha-band activity. The assumption is that the alpha frequency domain, as a basic process of the conscious brain, interacts best with those frequency domains that have a harmonic relationship with the alpha domain and that the separation between frequency domains is obtained with frequency ratios equaling the golden mean. It is a consequence of this assumption to expect that the frequency architecture changes when consciousness changes. 
 
-
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQnuvzJLt4iTyfu8CK6WLxv2zvFwnoVY8DitfOeOpTsTtX0N47socFDeQL3L4-AXIACL5N67pzz0CYP/pubhtml?gid=216001890&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 
