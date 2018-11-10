@@ -153,6 +153,7 @@ My opinion is that studying brainwaves alone and trying to get any real benefit 
 [www.sciencedirect.com/science/article/pii/S096522991200114](https://www.ncbi.nlm.nih.gov/pubmed/23131369)[  
 www.sciencedirect.com/science/article/abs/pii/S0304394003000338](https://www.sciencedirect.com/science/article/abs/pii/S0304394003000338)  
 [www.sciencedirect.com/science/article/abs/pii/S0167876016307152](https://www.sciencedirect.com/science/article/abs/pii/S0167876016307152)  
+[www.ncbi.nlm.nih.gov/pmc/articles/PMC5866730/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5866730/)  
 [www.frontiersin.org/articles/10.3389/fpsyg.2017.00154](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00154/full)  
 [www.link.springer.com/article/10.1007%2Fs10339-009-0272-0](https://link.springer.com/article/10.1007%2Fs10339-009-0272-0)  
 [www.journals.plos.org/plosone/article?id=10.1371/journal.pone.0170647](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170647)  
