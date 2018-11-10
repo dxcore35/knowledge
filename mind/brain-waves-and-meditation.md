@@ -52,6 +52,8 @@ To be it more difficult the spectrum is divided to:
 * **Alpha-2 \(Mid-range alpha, 8.9–10.9 Hz\):**
 * **Alpha-3 \(High alpha, 10.9–12.9 Hz\)**: specifically reflects encoding memory processes
 
+> If some new age guru tell you that this method alter the alpha state, ask him which one. Or just tell him you don't need any method, you just close your eyes and are right there!
+
 ![](../.gitbook/assets/meditationbrain_alphaeyes.jpg)
 
 When the subjects opened their eyes, the EEG frequency increased to beta and gamma, and alpha waves were “blocked.” Alpha blocking is considered to be a signal of orientation or interest.
@@ -133,7 +135,7 @@ Evidences shows that types of meditation that developed out of certain tradition
 
 Different traditions have different meditation methods and different goals they want to archive. It is no surprise that different methods leads to different results consequently leads to different spectrum of brainwave activity and different altered consciousnesses. Here I just need to say:  "Just pick the best one".  
 
-According to Blue Brain project: The human brains are estimated to have a staggering 86 billion neurons, with multiple connections from each cell webbing in every possible direction, forming the vast cellular network that somehow makes us capable of thought and consciousness. The brain reacts to a stimulus by building \[and\] then razing a tower of multi-dimensional blocks, starting with rods \(1D\), then planks \(2D\), then cubes \(3D\), and then more complex geometries with 4D, 5D, etc...up to more then \(11D\) - this is across different parts of the brain. There are tens of millions of these objects even in a small speck of the brain. This interplay define the normal and altered consciousness states. But we are attempting to define  it in range of frequency 0.5-100 Hz... I think this do not require any more elaboration. 
+According to Blue Brain project: The human brains are estimated to have a staggering 86 billion neurons, with multiple connections from each cell webbing in every possible direction, forming the vast cellular network that somehow makes us capable of thought and consciousness. The brain reacts to a stimulus by building \[and\] then razing a tower of multi-dimensional blocks, starting with rods \(1D\), then planks \(2D\), then cubes \(3D\), and then more complex geometries with 4D, 5D, etc...up to more then \(11D\) - this is across different parts of the brain. There are tens of millions of these objects even in a small speck of the brain. This interplay define the normal and altered consciousness states. But we are attempting to define  it in range of frequency 0.5-100 Hz... I think this do not require any more elaboration... 
 
 Also consider:
 
@@ -141,7 +143,7 @@ Also consider:
 * How some mediators experience alpha waves blocking when they have closed eyes?
 * How you can be in alpha state and not be relaxed?, etc....
 
-> It looks like it is more about interplay between different brain centers and not about brainwave alone. The brainwave can be considered as a carrier of this "interplay". Yes, some brainwaves are better and more effective for carrying different kind of information. But the key to understanding it is not the carrier \(the brainwave\), but about it is about the know the message \(information and centers involved\).
+> It looks like it is more about interplay between different brain centers and not about brainwave alone. The brainwave can be considered as a carrier of this "interplay". Yes, some brainwaves are better and more effective for carrying different kind of information. But the key to understanding it is not the carrier \(the brainwave\), but to understand the message \(information and centers involved\).
 
 My opinion is that studying brainwaves alone and trying to get any real benefit from this will lead to misunderstanding and huge generalizations. Yes, it is interesting, but no much in terms of practicality and benefit for the life. 
 
