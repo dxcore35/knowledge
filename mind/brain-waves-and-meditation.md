@@ -142,7 +142,7 @@ According to Blue Brain project: The human brains are estimated to have a stagge
 Also consider:
 
 * How can it be that some mediators can experience delta and be awake?
-* How some mediators experience alpha waves blocking when they have closed eyes?
+* How is that some mediators experience alpha waves blocking when they have closed eyes?
 * How you can be in alpha state and not be relaxed?, etc....
 
 > It looks like it is more about interplay between different brain centers and not about brainwave alone. The brainwave can be considered as a carrier of this "interplay". Yes, some brainwaves are better and more effective for carrying different kind of information. But the key to understanding it is not the carrier \(the brainwave\), but to understand the message \(information and centers involved\).
