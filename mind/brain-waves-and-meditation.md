@@ -14,7 +14,7 @@ description: >-
 
 * Further studies have been suggested to consider extra frequency ranges and cross-correlation between EEG signals.
 * There is hundreds of meditation style so there is no fixed correlation. And even worst there is no global categorization based on type of object, type of used awareness, or even if the method requires open or closed eyes. 
-* Some researchers have criticized the traditional approach of investigating strictly defined frequency bands while ignoring the functional interplay between frequencies. This critical view is well justified, because there is hardly any doubt that different frequencies interact in some way and represent different aspects of brain processes. However, so far, there is **no global brain theory in sight.**
+* Some researchers have criticized the traditional approach of investigating strictly defined frequency bands while ignoring the functional interplay between frequencies. This critical view is well justified, because there is hardly any doubt that different frequencies interact in some way and represent different aspects of brain processes. However, so far, there is no global brain theory in sight.
 * Also meditation effects on the brain activity measured by EEG could be contaminated by the electromuscular artifacts. EEG rhythms show 6 times less power in 25–30 Hz band and 100 times less 40–100 Hz power in paralyzed subjects.
 * There is no global brainwave, just cohesion of the same waves in different parts of the brain.
 * Often short period of meditation. 
@@ -23,19 +23,19 @@ description: >-
   * Future research might profit from this study.
   * The results of this studies are limited...
   * Further studies are needed to understand... 
-* Mediation is process not one continuous mental task. In research the meditation section is often not split to parts but is considered as one continuous process starting by short period of time "tuning in" and sometimes even worst from the moment of closing of the eyes! I rarely seen EEG graphs where Y coordinate is brainwaves type / frequency and X coordinate is time. Time factor is important to consider especially for concentration meditation where there are preparing calming periods \(approx. 20 min.\) and also different levels of depth accessible for meditator \(depending on time but mostly and the skills of the meditator\). This "stages" can alter different brainwaves.
+* Mediation is process not one continuous mental task. In research the meditation session is often not divided into parts but is considered as one continuous process starting by short period of time "tuning in" and sometimes even worst from the moment of closing of the eyes! I rarely seen EEG graphs where Y coordinate is brainwaves type / frequency and X coordinate is the time. Time factor is important to consider especially for concentration meditation where there are preparing calming periods \(approx. 20 min.\) Also there is different levels of depth accessible for meditator \(depending on the time, but mostly and the skills of the meditator\). This "stages" can alter different brainwaves.
 
 ![](../.gitbook/assets/meditationbrain_casvade.png)
 
-* Brain waves **Interference.** This is phenomenon in which 2 waves superpose to form a resultant wave of greater / lower/ the same amplitude.
+* Brain waves interference. This is phenomenon in which 2 waves superpose to form a resultant wave of greater / lower/ the same amplitude.
 
 ![Example of two sources of the wave function and resulting interferences.](../.gitbook/assets/meditationbrain_interanimation.gif)
 
-* There is no "pure" meditation session. Mind wandering occurs even for the advanced meditators and may result in change of the brain waves
+* There is no "pure" meditation session. Mind wandering occurs even for the advanced meditators and may result in change of the brain waves.
 
 ![](../.gitbook/assets/meditationbrain_mindwandering.jpg)
 
-* The brain is not machine with 5 speed gearbox. We cannot simple capture activity and said it is: α,β,γ,δ,θ and if you want improve this cognitive function you need to access this brainwave...We need to understand that cognitive process are depended on what kind of information and what kind of centers are involved in processing and distributing the information. By tracing the main patterns of the individual centers we can understand how the "communication" is changed during meditation. But this require time consuming procedures, therefore scientist want to make it more simple. 
+* The brain is not machine with 5 speed gearbox. We cannot simple capture activity and said it is: α,β,γ,δ,θ and if you want improve this cognitive function you need to access this brainwave...We need to understand that cognitive process are depended on what kind of information and what kind of centers are involved in processing and distributing the information. By tracing the main patterns of the individual centers we can understand how the "communication" is changed during meditation. But this require time consuming procedures, therefore scientist want to make it more simple.  
 * Maybe there is alpha-band based architecture, and not individual brain waves 
 
 ![](../.gitbook/assets/mediatationbrain_graph2.png)
@@ -52,7 +52,7 @@ To be it more difficult the spectrum is divided to:
 * **Alpha-2 \(Mid-range alpha, 8.9–10.9 Hz\):**
 * **Alpha-3 \(High alpha, 10.9–12.9 Hz\)**: specifically reflects encoding memory processes
 
-> If some new age guru tell you that this method alter the alpha state, ask him which one. Or just tell him you don't need any method, you just close your eyes and are right there!
+> If some new-age guru tell you that this method alter the alpha state, ask him which one. Or just tell him you don't need any method, you just close your eyes and are right there!
 
 ![](../.gitbook/assets/meditationbrain_alphaeyes.jpg)
 
@@ -84,7 +84,7 @@ Delta waves are the slowest recorded brain waves in human beings. Although delta
 
 ## MEDITATION & BRAINWAVES
 
-Here the comparison between novices and advanced meditators. Needs to be said that the changes in brainwaves presented here occurs mostly and more intensively for advanced meditators. So if you are beginner please do not expected these changes in brainwaves. Exception here are only mind-wandering or sleepiness. This I gave there to have some baseline, since those states occurs during all mediation techniques. 
+Here the comparison between novices and advanced meditators. Needs to be said that the changes in brainwaves presented here occurs mostly and more intensively for advanced meditators. So if you are beginner please do not expected these changes in brainwaves. Exception here are only mind-wandering or sleepiness. This I gave there to have some baseline, since those states occurs during all mediation techniques.
 
 ![Meditation techniques / states and brainwave correleations](../.gitbook/assets/meditationbrain_corelations_small.png)
 
@@ -133,7 +133,9 @@ Evidences shows that types of meditation that developed out of certain tradition
 
 ## OPEN-END
 
-Different traditions have different meditation methods and different goals they want to archive. It is no surprise that different methods leads to different results consequently leads to different spectrum of brainwave activity and different altered consciousnesses. Here I just need to say:  "Just pick the best one".  
+Different traditions have different meditation methods and different goals they want to archive. It is no surprise that different methods leads to different results consequently leads to different spectrum of brainwave activity and different altered consciousnesses. Here I just need to say:  "Just pick the best one".
+
+![](../.gitbook/assets/meditationbrainne_neurons.jpg)
 
 According to Blue Brain project: The human brains are estimated to have a staggering 86 billion neurons, with multiple connections from each cell webbing in every possible direction, forming the vast cellular network that somehow makes us capable of thought and consciousness. The brain reacts to a stimulus by building \[and\] then razing a tower of multi-dimensional blocks, starting with rods \(1D\), then planks \(2D\), then cubes \(3D\), and then more complex geometries with 4D, 5D, etc...up to more then \(11D\) - this is across different parts of the brain. There are tens of millions of these objects even in a small speck of the brain. This interplay define the normal and altered consciousness states. But we are attempting to define  it in range of frequency 0.5-100 Hz... I think this do not require any more elaboration... 
 
