@@ -133,7 +133,7 @@ Evidences shows that types of meditation that developed out of certain tradition
 
 ## OPEN-END
 
-Different traditions have different meditation methods and different goals they want to archive. It is no surprise that different methods leads to different results consequently leads to different spectrum of brainwave activity and different altered consciousnesses. Here I just need to say:  "Just pick the best one".
+Different traditions have different meditation methods and different goals they want to archive. It is no surprise that different methods leads to different results consequently leads to different spectrum of brainwave activity and different altered consciousnesses. Here I just need to say:  "Just pick the best method!".
 
 ![](../.gitbook/assets/meditationbrainne_neurons.jpg)
 
